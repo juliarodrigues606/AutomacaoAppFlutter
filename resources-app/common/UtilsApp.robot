@@ -1,4 +1,4 @@
 ***Settings***
-Resource    C:/exercicioPratico/appFlutter/resources-app/common/BaseApp.robot
+Resource    C:/exercicioPratico/gitRepositorioAutomacao/AutomacaoAppFlutter/resources-app/common/BaseApp.robot
 *** Variables ***
 

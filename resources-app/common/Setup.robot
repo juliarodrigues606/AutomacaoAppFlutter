@@ -7,8 +7,9 @@ ${APPIUM_SERVER}      http://127.0.0.1:4723/wd/hub
 ${ATOMATION_NAME}     flutter
 ${PLATFORM_NAME}      Android
 ${DEVICE_NAME}        RF8T40DY0YX
-${APP_PATH}           C:/exercicioPratico/appFlutter/resources-app/app/app-profile.apk
+${APP_PATH}           C:/exercicioPratico/gitRepositorioAutomacao/AutomacaoAppFlutter/resources-app/app/app-profile.apk
 #${appActivity}        br.com.banese.digital.MainActivity
+
 
 *** Keywords ***
 Abrir App

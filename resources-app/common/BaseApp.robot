@@ -1,7 +1,7 @@
 *** Settings ***
 Library       AppiumFlutterLibrary
 Library       FakerLibrary    locale=pt_BR
-Resource      C:/exercicioPratico/appFlutter/resources-app/common/Setup.robot
+Resource      C:/exercicioPratico/gitRepositorioAutomacao/AutomacaoAppFlutter/resources-app/common/Setup.robot
 
 *** Keywords ***
 ## Ações
