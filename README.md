@@ -8,7 +8,7 @@ Instalações necessarias para rodar automação com o robot framework:
 * Instalar JDK
 * Instalar Node
 * Executar os comandos abaixo no prompt de comando:
-        * npm install -g appium@next
+        \n* npm install -g appium@next
         * appium driver install xcuitest
         * appium driver install uiautomator2
         * appium driver install flutter
